@@ -1,0 +1,23 @@
+{
+  "name": "sudokusolver",
+  "version": "1.0.0",
+  "description": "a simple sudoku solver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabioCingottini/sudokuSolver.git"
+  },
+  "author": "Fabio Cingottini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FabioCingottini/sudokuSolver/issues"
+  },
+  "homepage": "https://github.com/FabioCingottini/sudokuSolver#readme",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "lodash.range": "^3.2.0"
+  }
+}
